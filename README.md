@@ -12,16 +12,16 @@ The three user stories selected for the workshop are best represented by *Junior
 ## Junior Officers
 For our workshop, the Junior Officers represent users interested in *learning about career advancement opportunities*, *job fit*, and *information and reputation scores about potential jobs*.
 
-###User story
+### User story
 As a junior officer, I want to know _______ about available billets, so that I can explore opportunities that fit my career goals.
 
-###Demo
+### Demo
 Demo of working Talentlink prototype: http://fuzzylogic.knackhq.com/talentlink
 
-###User Testing Plan
+### User Testing Plan
 Towards the end of the sprint cycles the JO team began to craft a User Testing Plan:
 
-####Purpose: 
+#### Purpose: 
 To test and validate the JOs TalentLink prototype and hypothesis.
 Hypothesis:
 
@@ -35,7 +35,7 @@ The top billet characteristics most important to JOs are:
 * What is the AQD (and other qualifications) recieved for this billet?
 * What are the quality of life indicators for this billet?
 
-####Our User Testing Plan (following sprint cycles):
+#### Our User Testing Plan (following sprint cycles):
 
 * Distribute TalentLink prototype to xx JOs.
 * Ask users to select the top 5 features.
@@ -48,10 +48,10 @@ The top billet characteristics most important to JOs are:
 ## Detailers
 Detailers represent users that were interested in *filling open positions* and *helping the Junior Officers better manage their careers*.
 
-###User story
+### User story
 As a detailer, I want to know _____________ about available junior officers, so I can find the most qualified officer to fill a given billet.
 
-###Demo
+### Demo
 * ![Screenshot 1](/Images/Detailer_screen_1.png)
 * ![Screenshot 1](/Images/Detailer_screen_2.png)
 * ![Screenshot 1](/Images/Detailer_screen_3.png)
@@ -59,18 +59,18 @@ As a detailer, I want to know _____________ about available junior officers, so 
 * ![Screenshot 1](/Images/Detailer_screen_5.png)
 * ![Screenshot 1](/Images/Detailer_screen_6.png)
 
-##Commanding Officers
+## Commanding Officers
 Commanding Officers represent users that were interested in *understanding how well a Junior Officer fits into a given job*, and being able to see a *global view of all open positions and other information important to Commanding Officers (a command dashboard)*.
 
-###User story
+### User story
 As a commanding officer, I want to know ___________ about junior officers, so that I can understand whether a junior officer is a good fit for my command.
 
-###Demo
+### Demo
 * ![Screenshot 1](/Images/CO_screen_1.png)
 * ![Screenshot 2](/Images/CO_screen_2.png)
 * ![Screenshot 3](/Images/CO_screen_3.png)
 
-#After-Action Report
+# After-Action Report
 * We'll need to do some work to figure out how the findings of the workshop plug into what Navy is attempting to do, and where there's some overlap
 * Can we collect feature requests based on user feedback?  Do we need to start that prioritization process now?
 * We need a better sense for what some of the ideas shared during the workshop might mean for the rest of our systems.  Can we have a sandbox to test assumptions against?  How many systems are we looking at integrating?
@@ -103,10 +103,10 @@ One important rule we'll need to consider: any prototyped system cannot disrupt 
 
 Establishing and communicating the clear product vision is critical.
 
-##Retrospective
+## Retrospective
 The following is a general retrospective on the workshop.
 
-###What worked...
+### What worked...
 * time limits for teams (around 40 mins) to synthesize around a design
 * Teams of 5 further breaking into pairs to sketch concurrently
 * Dedicated individuals to design and dev
@@ -121,7 +121,7 @@ The following is a general retrospective on the workshop.
 * Information collected and what showed up in the prototypes was not anticipated
 * Good engagement across all groups
 
-###What needs addressing...
+### What needs addressing...
 * Logistics are important - shuffling between breakrooms can be difficult given short time to work during sprints, white boards and scratch pads in all rooms
 * Managing group participation from all involved is important
 * Hard to accomodate discussions around culture and institutional barriers
@@ -131,7 +131,7 @@ The following is a general retrospective on the workshop.
 * I’d like to see if we could get to a point where we have a better way to describe individuals in the system
 * Flexibility to introduce new user stories might be necessary at certain points in the process
 
-###What didn't work.
+### What didn't work.
 * Jumping into prototyping without any discovery, even though research was available, was hard on some participants in the group
 * Still difficult to get out of as-is model quickly during prototyping sessions - we need permission to get there
 * Difficult to address constraints (like the availability of data) within the short time period
@@ -139,7 +139,7 @@ The following is a general retrospective on the workshop.
 * Needed more opportunities to collect feature requirements, what’s the longer term vision, more user perspectives
 * Sometimes difficult to separate the technical possibilities from the business processes
 
-#Resources
+# Resources
 
 ## Slides
 Slides for the workshop [can be found here](https://docs.google.com/a/gsa.gov/presentation/d/1TKOt2pSmpcYFTo7Ud2Fs-eqkwFjcghz_jV1E--ENvzE/pub?start=false&loop=false&delayms=3000).
